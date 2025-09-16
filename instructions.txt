@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 Niveau 1 - Le réveil
 
 [ Écran noir... ]
@@ -14,7 +13,7 @@ Tu es... dans ton lycée ?
 Quelque chose cloche.
 
 Le néon au plafond clignote. Il y a du sang sur le sol.  
-Tu entends des cris lointains, étouffés, comme des élèves... mais sous l’eau.
+Tu entends des cris lointains, étouffés, comme des élèves...
 
 Une voix résonne dans ta tête.
 
@@ -41,17 +40,17 @@ Bien [prénom]
 [ACCEPTÉ.]  
 > Traitement de l’identité en cours...
 
-« TU NE T’ES JAMAIS RÉVEILLÉ(E). »
+« TU NE T’ES JAMAIS RÉVEILLÉE. »
 
 Tu n’as aucun souvenir d’être venu ici.  
-Casier. Numéro 666.  
+Porte. Numéro 666.  
 Fermé.
 
 Quelque chose t’observe depuis l’intérieur.
 
 ...
 
-[BIENVENUE DANS *LOCKER 666*]
+[BIENVENUE DANS ]
 
 Niveau 2 - L’Ordinateur du Marchand
 
@@ -84,7 +83,9 @@ Sur ton écran, un texte rouge apparaît :
 2. Objet improvisé 80%
 3. Potion/Poison
 
-[VICTOIRE /DEFAITE]
+[VICTOIRE /DEFAITE] si défaite : on recommence le niveau sinon :
+
+[Fusil à pompes débloqué]
 
 Le zombie tombe. Tu vois une personne qui se cache derrière un casier.
 
@@ -100,10 +101,103 @@ Vos forces se combinent :
 
 Points de vie doublés
 
-Niveau 4 -
+Niveau 4 - combat empoisoné
 
-Niveau 5 -
+(Dans un couloir, un professeur zombifié t’attend. Il parle comme si tu étais un élève connu.)
 
-Niveau 6 -
+Professeur :
 
-Niveau 7 -
+« Toujours… en retard… toujours toi ! Tu ne changes jamais. »
+
+Lucas (tremblant) : « …Il te connaît. Mais il ne devrait pas… personne ne devrait. »
+
+[ COMBAT ENGAGÉ ]
+
+[Choisissez votre arme]
+
+1. Ciseaux
+2. Objet improvisé 80%
+3. Potion/Poison
+(Combat avec Lucas → poison appliqué. Même si victoire, joueur est contaminé.)
+
+Tu sens ton sang bouillir.
+
+[Tu es empoisonnée]
+
+[ AK47 débloqué]
+
+Niveau 5 - [COMBAT ENGAGÉ – Ennemis : Doubles Zombifiés]
+
+Double (lucas et toi)
+
+Les doubles imitent tes attaques une fois sur deux.
+
+Chaque attaque ratée augmente le niveau de poison de 10%.
+
+Si Lucas est touché → réduction temporaire de tes points de vie doubles.
+
+Niveau 6 - Remède
+
+Tu arrives dans un petit laboratoire abandonné.
+Au centre, quatre fioles sont alignées : rouge, bleu, vert et jaune.
+Une note sur le pupitre indique :
+
+"Une seule potion guérira le poison. Choisis avec soin."
+"Tu devras combiner les couleurs correctement"
+[Couleur choisi VIOLET]
+
+Lucas te regarde :
+« Fais le bon choix… je ne sais pas laquelle est la bonne. »
+
+Choix des fioles
+
+1. Rouge
+
+2. Bleu
+
+3. Vert
+
+4. Jaune
+
+Bonne fioles (rouge + Bleu): rétablit instantanément ton état.
+
+Mauvaise fiole : mort.
+
+Texte victoire
+
+[REMÈDE RÉCUPÉRÉ – Poison neutralisé]
+
+[MP5 débloqué]
+
+
+Niveau 7 - Combat final.
+
+Tu entres dans le gymnase principal. Au centre, une silhouette imposante :
+Le Gardien des Âmes, une fusion de plusieurs professeurs et du directeur.
+Le visage à moitié humain, à moitié zombie avec des membres disproportionnés.
+
+Plusieurs voix résonnent :
+
+« TU NE DOIS PAS PARTIR.
+
+[COMBAT ENGAGÉ – gauchos]
+
+[Choisissez votre arme]
+
+1. Ciseaux
+2. Objet improvisé 80%
+3. Potion/Poison
+	
+	Si VICTOIRE
+	Le Gardien hurle et se dissout en cendres.
+	Une lumière s’allume sur la porte principale :
+
+	[ACCÈS AUTORISÉ – SORTIE DÉVERROUILLÉE]
+
+	(→ silence. Lucas disparaît. Le casier est vide )
+
+	Voix finale (la même qu’au début) :
+
+« TU NE T’ES JAMAIS RÉVEILLÉ(E). »
+
+(Écran noir.)
