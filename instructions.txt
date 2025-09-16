@@ -1,1 +1,108 @@
-cho mabe
+Niveau 1 - Le réveil
+
+[ Écran noir... ]
+
+...
+
+Tu ouvres les yeux.
+
+Tu es assis à un bureau. Il fait nuit.
+
+Tu es... dans ton lycée ?
+
+Quelque chose cloche.
+
+Le néon au plafond clignote. Il y a du sang sur le sol.  
+Tu entends des cris lointains, étouffés, comme des élèves... mais sous l’eau.
+
+Une voix résonne dans ta tête.
+
+« QUI ES-TU ? »
+
+[Choisissez votre nom]
+
+Bien [prénom]
+
+[Choisissez votre genre]
+1. Homme  
+2. Femme  
+
+> 1
+
+[ERREUR : FAUX.]  
+> Recalcul en cours…
+
+« TU N’ES PAS QUI TU PENSES ÊTRE. »
+
+1. Femme  
+> 1
+
+[ACCEPTÉ.]  
+> Traitement de l’identité en cours...
+
+« TU NE T’ES JAMAIS RÉVEILLÉ(E). »
+
+Tu n’as aucun souvenir d’être venu ici.  
+Casier. Numéro 666.  
+Fermé.
+
+Quelque chose t’observe depuis l’intérieur.
+
+...
+
+[BIENVENUE DANS *LOCKER 666*]
+
+Niveau 2 - L’Ordinateur du Marchand
+
+(Tu entres dans une salle plongée dans le noir. Un ordinateur s’allume tout seul.
+L’écran grésille. Une vidéo apparaît, avec une connexion instable. 
+L’image saute, la voix se coupe par moments.)
+
+Vidéo – Homme inconnu (pixellisé, paniqué) :
+
+« …Si tu vois ça… tu dois m’écouter… vite. »
+(l’image coupe, revient)
+« …Va au distributeur. Prends une potion… ou… un poison… choisis bien. »
+
+(La vidéo saccade, puis l’écran devient rouge vif. Un hurlement traverse les haut-parleurs avant que tout s’éteigne brutalement.)
+
+
+Niveau 3 – Le combat
+
+Derrière les casiers, un zombie du lycée avance. Sa bouche est couverte de sang.
+
+Son badge porte le nom de ton prof de sport… mais il n’est plus humain.
+
+Sur ton écran, un texte rouge apparaît :
+
+[ COMBAT ENGAGÉ ]
+
+[Choisissez votre arme]
+
+1. Ciseaux
+2. Objet improvisé 80%
+3. Potion/Poison
+
+[VICTOIRE /DEFAITE]
+
+Le zombie tombe. Tu vois une personne qui se cache derrière un casier.
+
+Après un instant, elle sort et s’avance vers toi.
+
+« Je m’appelle Lucas. »
+
+Il te regarde avec sérieux.
+
+« Je suis coincé ici, comme toi. On devrait faire équipe. »
+
+Vos forces se combinent :
+
+Points de vie doublés
+
+Niveau 4 -
+
+Niveau 5 -
+
+Niveau 6 -
+
+Niveau 7 -
