@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Niveau 1 - Le réveil
 
 [ Écran noir... ]
@@ -143,6 +144,8 @@ Bloody High
 Awakening 666
 Dark Detention
 ﻿
+=======
+>>>>>>> 59867e54a0be6fbf95604c30a86c5cdca96c581f
 Niveau 1 - Le réveil
 
 [ Écran noir... ]
