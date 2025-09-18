@@ -1,24 +1,48 @@
+# Projet RED – Jeu texte en Go
 
-# Projet RED — Dossier `docs/` (version v2)
+Projet développé dans le cadre de l’Ymmersion Ynov Campus.  
+Jeu d’aventure textuel intégrant création de personnage, inventaire, marchand, craft et combats.
 
-Ce pack réunit **toute la doc** du projet *DARK DETENTION* (version débutant deluxe) :
-- installation, lancement, réglages couleurs/console,
-- mapping **Tâches 1 → 22.2** vers le code,
-- antisèche d'oral (pitch/démo/Q-R),
-- scénario Niveaux 1→7,
-- **guide COMBAT** (nouvelle version guidée),
-- visuels (couleurs ANSI, ASCII, centrage),
-- architecture, tests, FAQ.
+## 📦 Prérequis
 
-> Place tout le dossier `docs/` à la **racine** du projet, à côté de `src/`.
+- Go 1.22 ou version ultérieure
 
-Sommaire :
-- `INSTALL.md`
-- `RENDU.md`
-- `ORAL.md`
-- `STORY.md`
-- `COMBAT_GUIDE.md`
-- `VISUALS.md`
-- `ARCHITECTURE.md`
-- `TESTS.md`
-- `FAQ.md`
+## 🚀 Installation
+
+Clonez le projet et placez-vous à la racine (là où se trouve `go.mod`) :
+
+```bash
+git clone https://github.com/toncompte/projet-red-monjeu.git
+cd projet-red-monjeu
+go mod tidy
+▶️ Lancement
+Exécutez le jeu depuis la racine du projet :
+
+bash
+Copier le code
+go run ./src
+Le menu principal apparaîtra dans le terminal.
+
+🗂 Structure du projet
+bash
+Copier le code
+projet-red-monjeu/
+├─ go.mod
+├─ README.md
+├─ docs/
+│  └─ gestion_projet.md
+└─ src/
+   ├─ main.go           # point d’entrée du jeu
+   ├─ ui/               # interface utilisateur (menu, entrées)
+   ├─ character/        # gestion du personnage, inventaire, marchand, forge
+   └─ combat/           # gestion des monstres et combats
+✨ Fonctionnalités
+Création et affichage du personnage
+
+Inventaire et objets utilisables
+
+Marchand et forge (achat / craft d’équipements)
+
+Combat d’entraînement contre gobelin et système de tours
+
+Gestion du poison et des PV
