@@ -1,10 +1,24 @@
-# Projet RED – Mon Jeu
 
-Mini-jeu CLI en Go pour l’Ymmersion (Ynov).
+# Projet RED — Dossier `docs/` (version v2)
 
-## Installation
-- Go 1.22+
-- Cloner le repo, puis :
+Ce pack réunit **toute la doc** du projet *DARK DETENTION* (version débutant deluxe) :
+- installation, lancement, réglages couleurs/console,
+- mapping **Tâches 1 → 22.2** vers le code,
+- antisèche d'oral (pitch/démo/Q-R),
+- scénario Niveaux 1→7,
+- **guide COMBAT** (nouvelle version guidée),
+- visuels (couleurs ANSI, ASCII, centrage),
+- architecture, tests, FAQ.
 
-```bash
-go run ./src
+> Place tout le dossier `docs/` à la **racine** du projet, à côté de `src/`.
+
+Sommaire :
+- `INSTALL.md`
+- `RENDU.md`
+- `ORAL.md`
+- `STORY.md`
+- `COMBAT_GUIDE.md`
+- `VISUALS.md`
+- `ARCHITECTURE.md`
+- `TESTS.md`
+- `FAQ.md`
